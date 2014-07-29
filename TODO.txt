@@ -1,0 +1,39 @@
+-00-
+Rolle von UserState überdenken
+Selektives Update
+Rolle von Map überdenken
+Methoden kommentieren
+Unit Tests
+-05-
+Gewinn-Meldung
+Meldung bei letztem Level
+Beweis der Lösung
+Entities, Value Objects und Services identifizieren
+Hilfe-Dokumente
+-10-
+Grafiken
+Undo von Wegen nach Aktion
+Fenster bei Resize ganz auf Monitor schieben
+
+(DONE) Fenster nicht sichtbar verschieben
+(DONE) Fensterposition speichern
+(DONE) noghost umbenennen
+-15-
+(DONE) Mauswege über Tastatur gehen
+(DONE) Keyhandling mit direction
+(DONE) Ghost moves
+(DONE) Fertig nach Mausklick prüfen
+(DONE) Steine mit Maus bewegen
+-10-
+(DONE) Cells haben feste Größe
+(DONE) Wege zeitverzögert abfahren
+(DONE) Lokalisierung
+(DONE) Fenstertitel
+(DONE) Aufgeben
+-05-
+(DONE) Maussteuerung
+(DONE) Wege finden
+(DONE) WindowsController in WindowsDelegate umbenennen
+(DONE) Anwendung beenden, wenn Fenster geschlossen
+(DONE) Controller nach ApplicationDelegate umbenennen
+-00-

@@ -1,0 +1,6 @@
+﻿/* Localized versions of Info.plist keys */
+
+CFBundleName = "CocoBan";
+CFBundleShortVersionString = "0.1";
+CFBundleGetInfoString = "CocoBan Version 0.1, Copyright 2005 Timm Knape.";
+NSHumanReadableCopyright = "Copyright 2005 Timm Knape.";
